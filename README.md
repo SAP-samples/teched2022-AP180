@@ -1,5 +1,4 @@
-# AP180 - Integrating SAP Ariba Procurement with SAP Companion to Provide In-App Help![Uploading image.png…]()
-
+# AP180 - Integrating SAP Ariba Procurement with SAP Companion to Provide In-App Help!
 
 ## Description
 

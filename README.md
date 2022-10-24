@@ -2,23 +2,46 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called AP180 - Integrating SAP Ariba Procurement with SAP Companion to Provide In-App Help.  
+This repository contains the material for the SAP TechEd 2022 session called AP180 - Integrating SAP Ariba Procurement with SAP Companion to Provide In-App Help. 
+In this virtual workshop we will show you how to integrate SAP Companion, a component of SAP Enable Now, and SAP Ariba Guided Buying. Follow along live or check out the exercises afterwards.
 
 ## Overview
 
 This session introduces attendees to the integration of SAP Companion into SAP Ariba Guided Buying and in-app help content creation.
 
+In step 1 you will see how to prepare the custom scripts and configuration in SAP Enable Now Manager. 
+
+Step 2 shows you how to set up the parameters in SAP Ariba Guided Buying. 
+
+And in step 3 I will show you how to create in-app help content from scratch and how to edit existing standard content directly on-screen in Ariba Guided Buying. 
+
+![image](https://user-images.githubusercontent.com/113501392/197522000-921ab6e3-a2ee-459e-9dca-510ff0175830.png)
+
 ## Requirements
 
-The requirements to follow the exercises in this repository are a stable internet connection and allowing pop-ups.
+The requirements to follow the exercises in this repository are a stable internet connection and allowing pop-ups. There are no other requirements regarding pre-session knowledge.
 
 ## Exercises
 
 All exercises can be found linked in this PDF: https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?library=library.txt&show=media!M_D764CB45B25A9AAB
 
-**IMPORTANT**
+In addition, you can find the links to the exercises here:
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Step 1
+
+  [Exercise 1a: Synchronizing Script Snippets](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201a:%20Synchronizing%20Script%20Snippets)
+  
+  [Exercise 1b: Create a Configuration File] (https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201b:%20Create%20a%20Configuration%20File)
+ 
+Step 2
+
+  [Exercise 2: Setting up the parameters in SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%202:%20Setting%20up%20the%20parameters%20in%20SAP%20Ariba%20Guided%20Buying)
+  
+Step 3
+
+  [Exercise 3a: Creating custom content in SAP Companion within SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%203a:%20Creating%20custom%20content%20in%20SAP%20Companion%20within%20SAP%20Ariba%20Guided%20Buying)
+  
+  [Exercise 3b: Editing content in SAP Companion within SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%203b:%20Editing%20content%20in%20SAP%20Companion%20within%20SAP%20Ariba%20Guided%20Buying)
 
 ## How to obtain support
 

@@ -1,0 +1,143 @@
+1. Creating custom content in SAP Companion within SAP Ariba Guided Buying
+
+Go here to start the exercise: https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_95C7A1F10EB1EC96:pres
+
+If you want to practice with instructions, use this link: https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_95C7A1F10EB1EC96:uebung
+
+1.1. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+If you want to only use your own custom content, you can turn off the standard content and start with an empty carousel.
+
+ 
+
+We will create a help tile from scratch.
+
+ 
+
+(1) Click Screen Help .
+
+1.2. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(2) Click  .
+
+1.3. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(3) Click  .
+
+1.4. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+This interactive onboarding guide is perfect for new authors to get to know the SAP Companion and learn how to create in-app content.
+
+ 
+
+1.5. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(4) Click Close Lightbox .
+
+1.6. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(5) Click Add... .
+
+1.7. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(6) Clicking the entry Add Help Tile  selects it.
+
+1.8. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(7) The Enter Title  field is filled out.
+
+1.9. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(8) The Enter Summary Text  field is filled out.
+
+1.10. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(9) A text is entered in the text field.
+
+1.11. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(10) Click ♣APPEARANCE .
+
+1.12. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(11) Click Assign Hotspot .
+
+1.13. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(12) Click Start Assignment .
+
+1.14. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(13) Click the relevant screen area .
+
+1.15. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(14) Click Underline .
+
+1.16. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(15) Click .Show Help on Hover .
+
+1.17. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(16) Click Apply .
+
+1.18. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(17) Click Save Changes .
+
+1.19. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+Now the content is saved and visible for authors.
+
+ 
+
+When you are ready, you can publish the content to be available for all users.
+
+ 
+
+(18) Click Show/ Hide Options .
+
+1.20. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(19) Clicking the entry Publish Help  selects it.
+
+1.21. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(20) Click Yes .
+
+1.22. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+Good job! You have now create an in-app help content tile that explains the screen.
+
+ 

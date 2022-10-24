@@ -1,0 +1,73 @@
+1. Setting up the parameters in SAP Ariba Guided Buying
+
+Go here to start the exercise: https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_4D59BF903205B85:pres
+
+1.1. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+Now we will see how to set up the parameters in SAP Ariba Guided Buying so that SAP Companion is activated with content coming from the custom SAP Enable Now Manager.
+
+ 
+
+(1) Clicking the Admin  tab selects it.
+
+1.2. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(2) The scroll bar is used to display the desired screen area.
+
+1.3. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(3) Click Manage parameters .
+
+1.4. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(4) The scroll bar is used to display the desired screen area.
+
+1.5. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(5) Clicking the Change value  button opens the parameter settings.
+
+1.6. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(6) The Value  field is filled out.
+
+1.7. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(7) Click Change value .
+
+1.8. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+The value is now saved. Please note that it might take some time for your changes to take effect (a couple of hours at most).
+
+ 
+
+(8) Click Logo,Go back to the home page .
+
+1.9. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+(9) Click Help .
+
+1.10. Ariba Guided Buying - Google Chrome
+Ariba Guided Buying - Google Chrome
+
+
+
+You can now see the SAP Companion and the content that is already available in the SAP Enable Now workarea.
+
+ 
+
+Next, we will see how to edit and create new content.
+
+ 

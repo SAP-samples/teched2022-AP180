@@ -23,7 +23,7 @@ The requirements to follow the exercises in this repository are a stable interne
 
 ## Exercises
 
-All exercises can be found linked in this PDF: https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?library=library.txt&show=media!M_D764CB45B25A9AAB
+All exercises can be found linked in the [Participant Information PDF](https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?library=library.txt&show=media!M_D764CB45B25A9AAB). 
 
 In addition, you can find the links to the exercises here:
 

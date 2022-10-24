@@ -31,7 +31,7 @@ Step 1
 
   [Exercise 1a: Synchronizing Script Snippets](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201a:%20Synchronizing%20Script%20Snippets)
   
-  [Exercise 1b: Create a Configuration File] (https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201b:%20Create%20a%20Configuration%20File)
+  [Exercise 1b: Create a Configuration File](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201b:%20Create%20a%20Configuration%20File)
  
 Step 2
 

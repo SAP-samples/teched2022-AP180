@@ -1,4 +1,4 @@
-# 1. Editing content in SAP Companion within SAP Ariba Guided Buying
+# 1. Edit Existing Content
 
 Go here to start the exercise: [Exercise Simulation Link](https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_76213AE92D6C45A1:pres)
 

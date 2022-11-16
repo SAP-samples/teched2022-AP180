@@ -1,4 +1,4 @@
-# 1. Creating custom content in SAP Companion within SAP Ariba Guided Buying
+# 1. Creating New Content
 
 Go here to start the exercise: [Exercise Simulation Link](https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_95C7A1F10EB1EC96:pres)
 

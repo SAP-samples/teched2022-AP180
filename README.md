@@ -29,19 +29,19 @@ In addition, you can find the links to the exercises here:
 
 Step 1
 
-  [Exercise 1a: Synchronizing Script Snippets](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201a:%20Synchronizing%20Script%20Snippets.md)
+  [Exercise 1a: Get available templates](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201a:%20Get%20available%20templates.md)
   
-  [Exercise 1b: Create a Configuration File](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201b%20Create%20a%20Configuration%20File.md)
+  [Exercise 1b: Create a Configuration File](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%201b:%20Create%20a%20Configuration%20File.md)
  
 Step 2
 
-  [Exercise 2: Setting up the parameters in SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%202%20Setting%20up%20the%20parameters%20in%20SAP%20Ariba%20Guided%20Buying.md)
+  [Exercise 2: Set up of SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%202:%20Set%20up%20of%20SAP%20Ariba%20Guided%20Buying.md)
   
 Step 3
 
-  [Exercise 3a: Creating custom content in SAP Companion within SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%203a%20Creating%20custom%20content%20in%20SAP%20Companion%20within%20SAP%20Ariba%20Guided%20Buying.md)
+  [Exercise 3a: Create New Content](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%203a:%20%20Creating%20New%20Content.md)
   
-  [Exercise 3b: Editing content in SAP Companion within SAP Ariba Guided Buying](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%203b%20Editing%20content%20in%20SAP%20Companion%20within%20SAP%20Ariba%20Guided%20Buying.md)
+  [Exercise 3b: Edit Existing Content](https://github.com/SAP-samples/teched2022-AP180/blob/main/exercises/Exercise%203b:%20Edit%20Existing%20Content.md)
 
 ## How to obtain support
 

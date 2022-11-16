@@ -1,4 +1,4 @@
-# 1. Synchronizing Script Snippets
+# 1. Get available templates
 
 Go here to start the exercise: [Exercise Simulation Link](https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_AB3888B9C80B5C85:pres)
 

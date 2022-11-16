@@ -1,4 +1,4 @@
-# 1. Setting up the parameters in SAP Ariba Guided Buying
+# 1. Set up of SAP Ariba Guided Buying
 
 Go here to start the exercise: [Exercise Simulation Link](https://sap-teched.enable-now.cloud.sap/pub/TechEd2022/index.html?show=project!PR_4D59BF903205B85:pres)
 

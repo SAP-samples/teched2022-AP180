@@ -15,7 +15,7 @@ Step 2 shows you how to set up the parameters in SAP Ariba Guided Buying.
 
 And in step 3 I will show you how to create in-app help content from scratch and how to edit existing standard content directly on-screen in Ariba Guided Buying. 
 
-![image](https://user-images.githubusercontent.com/113501392/197522000-921ab6e3-a2ee-459e-9dca-510ff0175830.png)
+![image](https://user-images.githubusercontent.com/113501392/202115715-eaab294f-8772-48bf-b93e-cf0bb0cd70c8.png)
 
 ## Requirements
 
